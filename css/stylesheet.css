@@ -1,0 +1,202 @@
+
+html {
+    margin: -0px;
+    padding: -0px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+body {
+
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: -20px;
+    margin-left: -0px;
+    margin-right: -0px;
+    margin-bottom: -0px;
+    padding: -0px;
+    font-family: 'PT Sans', sans-serif; 
+    color: white;
+    
+}
+
+
+
+#squares div {
+    display: block;
+    float: left;
+
+    width: 560px;
+    height: 490px;
+   
+
+}
+
+.margino {
+    margin-left: 60px;
+    margin-top: 90px;
+}
+
+.picmarg{
+    
+    margin-top: 90px;
+}
+
+.lefmarg{
+    margin-left: 60px;
+  
+  
+}
+
+.aligna{
+    
+     display: inline-block;
+    vertical-align: middle;
+    font-size: 20px;
+}
+
+#item1 {
+
+background-color: #ffc41a;
+line-height: 55px;   
+text-align: left;  
+font-size: 16px;
+letter-spacing: 2px;
+    
+
+}
+
+#item2 {
+    
+    background-color: #ff7b0f;
+}
+
+#item3 {
+    
+    background-color: #ea4335;
+}
+
+#item4 {
+    background-color: #303030;
+}
+
+#item5 {
+    background-color: #0092ff;
+}
+
+#item6 {
+    background-color: #7d4297;
+}
+
+.lines {
+    border: 0;
+    border-bottom: 5px dashed #ffffff;
+    background: #ffffff;
+    width: 447px;
+    margin-top: 4px;
+   
+}
+    
+    .btn {
+    border: none;
+    background-color: inherit;
+ 
+    font-size: 20px;
+    cursor: pointer;
+   
+}
+
+  .btn2 {
+    border: none;
+    background-color: inherit;
+ 
+    font-size: 20px;
+    cursor: pointer;
+   
+}
+
+.btn:hover {color: #0092ff;}
+
+.home {color: 0092ff;}
+.info {color: dodgerblue;}
+.warning {color: orange;}
+.danger {color: red;}
+.default {color: black;}
+
+.btn2:hover {color: #ffc41a;}
+
+.home {color: 0092ff;}
+.info {color: dodgerblue;}
+.warning {color: orange;}
+.danger {color: red;}
+.default {color: black;}
+
+
+.home{
+    color: white;
+    margin-left: 55px;
+    letter-spacing: 1px;
+    margin-bottom: 0px;
+    margin-top: 30px;
+}
+
+.about{
+    color: white;
+    margin-left: 55px;
+    letter-spacing: 1px;
+    margin-bottom: 17px;
+    margin-top: 33px;
+}
+
+.moveo{
+    margin-top: -25px;
+}
+
+.aboutex{
+    
+    margin-left: 60px;
+    margin-top: 12px;
+    font-size: 20px;
+}
+
+.portpic{
+    margin-left: -85px;
+    margin-top: -10px;
+    margin-bottom: -105px;
+}
+
+.knapmarg{
+    margin-top: 80px;
+}
+
+.clientpic {
+    
+    margin-left: -60px;
+    margin-top: 40px;
+}
+
+.afterhourpic {
+    margin-left: 90px;
+    margin-top: 40px;
+}
+
+.clienttext {
+    
+    margin-top: 7px;
+}
+
+.afterhourtext {
+    margin-top: 57px;
+}
+
+.contactpic {
+    
+    margin-top: 95px;
+}
+
+.contactknap {
+    
+    margin-top: 27px;
+    
+}
+
