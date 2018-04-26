@@ -109,7 +109,8 @@ body {
     margin-top: 20vw;
     line-height: 170%;
     letter-spacing: 1px;
-    font-size: 130%;    
+    font-size: 130%;
+    margin-bottom: 22vw;    
        
     }
     
@@ -156,40 +157,40 @@ body {
     
     .img1{
     margin-left: 28.5vw;
-    margin-top: 12vw;
-    margin-bottom: -2vw;
+    margin-top: 20vw;
+    margin-bottom: 20vw;
     width: 50%;    
 }
     
     .img2{
     
 margin-left: -26.5vw; 
-    margin-top: -8vw;
-    margin-bottom: -17vw;
+    margin-top: 1vw;
+    margin-bottom: 5vw;
     width: 150%;
 }
     
     .img3 {
     margin-left: 2vw;
-    margin-top: 2vw;
-    margin-bottom: -9vw;
+    margin-top: 10vw;
+    margin-bottom: 13vw;
     width: 95%;    
 }
     
     .img4{
     
     margin-left: 7vw;
-    margin-top: 2vw;
-    margin-bottom: 7.5vw;
+    margin-top: 10vw;
+    margin-bottom: 29.5vw;
     width: 80%;
 }
     
     
     .img5{
     
-    margin-top: 13vw;
+    margin-top: 21vw;
     margin-left: 27vw;
-    margin-bottom: 6.8vw;
+    margin-bottom: 28.8vw;
     width: 45%;    
 }
 
