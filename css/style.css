@@ -1,3 +1,205 @@
+
+@media only screen and (max-width: 768px) {
+   
+    html {
+    margin: -0px;
+    padding: -0px;
+}
+
+body {
+
+    background-repeat: no-repeat;
+    background-size: 100%;
+   margin : 0;
+    padding: 0px;
+    font-family: 'PT Sans', sans-serif; 
+    color: white;
+    margin:0;
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+
+    }
+
+.section {
+    height: 100vh;
+    }
+    
+    .btn {
+    border: none;
+    background-color: inherit;
+    color: #ffffff;
+    font-size: 20px;
+     letter-spacing: 1px;
+    cursor: pointer;
+    margin-left: 4vw; 
+    margin-top: 10vw;
+}
+    
+    .btn2 {
+    border: none;
+    background-color: inherit;
+    color: #ffffff;
+    font-size: 20px;
+     letter-spacing: 1px;
+    cursor: pointer;
+    margin-left: 4vw; 
+}
+
+    
+     .btn3 {
+    border: none;
+    background-color: inherit;
+    color: #ffffff;
+    font-size: 20px;
+     letter-spacing: 1px;
+    cursor: pointer;
+    margin-left: 4vw; 
+    margin-top: 10vw;
+}
+
+    
+    hr{
+   
+    border: 0;
+    border-bottom: 4px dashed #ffffff;
+    background: #ffffff;
+    width: 90%;
+    margin-top: 3%;
+}
+    
+.aligna{
+    
+     display: inline-block;
+    vertical-align: middle;
+    font-size: 20px;
+}    
+    
+    .alignamarg2 {
+    
+    margin-left: 6vw;
+    margin-top: 0.5vw;
+    font-size: 20px;
+}
+    
+    
+    .alignamarg3 {
+    
+    margin-left: 6vw;
+    margin-top: -0.7vw;
+    margin-top: -6vw;
+    font-size: 20px;
+}
+
+    
+    
+   #item1{
+    width:100vw; height:35vh;
+    margin: 0px;
+    background: #ffc41a;;  
+    float: left;
+       display: inline-block;
+    } 
+    
+    .h1item1{
+    
+    margin-left: 7vw;
+    margin-top: 20vw;
+    line-height: 170%;
+    letter-spacing: 1px;
+    font-size: 130%;    
+       
+    }
+    
+    #item2{
+    width:100vw; height:35vh;
+    margin: 0px;
+    background:#ff7b0f;  
+    float: left;
+    display: inline-block;
+}
+
+#item3{
+    width:100vw; height:35vh;
+    margin: 0px;
+    background:#ea4335;  
+    float: left;
+    display: inline-block;
+}
+
+#item4{
+    width:100vw; height:35vh;
+    margin: 0px;
+    background:#303030;  
+    float: left;
+    display: inline-block;
+}
+
+#item5{
+    width:100vw; height:35vh;
+    margin: 0px;
+    background:#0092ff;  
+    float: left;
+    display: inline-block;
+}
+
+#item6{
+    width:100vw; height:35vh;
+    margin: 0px;
+    background:#7d4297;  
+    float: left;
+    display: inline-block;
+}
+ 
+    
+    .img1{
+    margin-left: 28.5vw;
+    margin-top: 12vw;
+    margin-bottom: -2vw;
+    width: 50%;    
+}
+    
+    .img2{
+    
+margin-left: -26.5vw; 
+    margin-top: -8vw;
+    margin-bottom: -17vw;
+    width: 150%;
+}
+    
+    .img3 {
+    margin-left: 2vw;
+    margin-top: 2vw;
+    margin-bottom: -9vw;
+    width: 95%;    
+}
+    
+    .img4{
+    
+    margin-left: 7vw;
+    margin-top: 2vw;
+    margin-bottom: 7.5vw;
+    width: 80%;
+}
+    
+    
+    .img5{
+    
+    margin-top: 13vw;
+    margin-left: 27vw;
+    margin-bottom: 6.8vw;
+    width: 45%;    
+}
+
+
+    
+}
+
+
+
+@media only screen and (min-width: 1200px) {
+  
+
 html {
     margin: -0px;
     padding: -0px;
@@ -141,11 +343,11 @@ margin-left: -4.5vw;
 }
 .h1item1{
     
-    margin-left: 4.2vw;
+    margin-left: 4.5vw;
     margin-top: 4.1vw;
     line-height: 180%;
-    letter-spacing: 1px;
-}
+    letter-spacing: 2px;
+    }
 
 .contactmarg{
     
@@ -193,5 +395,7 @@ margin-left: -4.5vw;
     background:#7d4297;  
     float: left;
     display: inline-block;
+}
+
 }
 
