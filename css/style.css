@@ -94,7 +94,7 @@ body {
     
     
    #item1{
-    width:100vw; height:35vh;
+    width:100vw; height:50vh;
     margin: 0px;
     background: #ffc41a;;  
     float: left;
@@ -112,7 +112,7 @@ body {
     }
     
     #item2{
-    width:100vw; height:35vh;
+    width:100vw; height:50vh;
     margin: 0px;
     background:#ff7b0f;  
     float: left;
@@ -120,7 +120,7 @@ body {
 }
 
 #item3{
-    width:100vw; height:35vh;
+    width:100vw; height:50vh;
     margin: 0px;
     background:#ea4335;  
     float: left;
@@ -128,7 +128,7 @@ body {
 }
 
 #item4{
-    width:100vw; height:35vh;
+    width:100vw; height:50vh;
     margin: 0px;
     background:#303030;  
     float: left;
@@ -136,7 +136,7 @@ body {
 }
 
 #item5{
-    width:100vw; height:35vh;
+    width:100vw; height:50vh;
     margin: 0px;
     background:#0092ff;  
     float: left;
@@ -144,7 +144,7 @@ body {
 }
 
 #item6{
-    width:100vw; height:35vh;
+    width:100vw; height:50vh;
     margin: 0px;
     background:#7d4297;  
     float: left;
