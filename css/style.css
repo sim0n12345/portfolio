@@ -18,6 +18,7 @@ body {
   display:flex;
     overflow-x: hidden;
     overflow-y: scroll;
+   
   flex-wrap:wrap;
   justify-content:center;
 
