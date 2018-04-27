@@ -4,6 +4,8 @@
     html {
     margin: -0px;
     padding: -0px;
+    overflow-x:hidden;
+    overflow-y: scroll;
 }
 
 body {
@@ -18,7 +20,6 @@ body {
   display:flex;
     overflow-x: hidden;
     overflow-y: scroll;
-   
   flex-wrap:wrap;
   justify-content:center;
 
@@ -227,7 +228,9 @@ body {
     }
 
 .section {height: 100vh;}
-
+    
+/* frontpage */ 
+    
 hr{
    
     border: 0;
@@ -289,6 +292,18 @@ p, b{
 }
 
 .btn:hover {color: #0092ff;}
+    
+    .btn4 {
+    border: none;
+    background-color: inherit;
+    color: #ffffff;
+    font-size: 20px;
+     letter-spacing: 1px;
+    cursor: pointer;
+    margin-left: 4vw; 
+}
+
+.btn4:hover {color: #303030;}
 
 .btn2 {
     border: none;
@@ -400,6 +415,268 @@ margin-left: -4.5vw;
     float: left;
     display: inline-block;
 }
+    
+    
+/* aboutpage */ 
 
+#item8about{
+    width:100vw; height:100vh;
+    margin: 0px;
+    background:#0092ff;  
+    float: left;
+    display: inline-block;
+    position: absolute;
+   
+}
+    
+    #item7about{
+     width:15vw; height:10vh;
+    margin-top: 28vw;
+    margin-left: 3vw;
+    background:#0092ff;  
+    float: left;
+    display: inline-block;
+    position: relative;
+    line-height: 3vh; 
+    font-size: 18px;
+    z-index: 70;
+   
+    }
+    
+  
+
+    
+    .imgme{
+        
+        margin-left: -16vw;
+        margin-top: 3vw;
+        margin-bottom: 22vw;
+        border-radius: 500px;
+        position: relative;
+        z-index: 20;
+    }    
+    
+    #infobox{
+    width:80vw; height:100vh;
+    margin: 0px;
+    background:#ff7b0f;
+    position: relative;
+    z-index: 10;  
+     margin-top: 0vh;
+     margin-left: 20vw; 
+    border-radius: 0px;
+    box-shadow: 0 0 0 0 #666;
+    
+}
+    
+    
+    .homebut2 {
+        
+        position: relative;
+        margin-left: -23vw;8
+    
+        z-index: 30; 
+    }
+    
+    .aboutext2 {
+        
+        width: 30vw;
+        height: 20vw;
+    }
+    
+    .infoh1 {
+      
+        text-align: justify;
+        letter-spacing: 2px;
+        margin-left: 10vw;
+        margin-top: 4vw;
+        
+       
+    }    
+    
+    .infop {
+        
+        letter-spacing: 2px;
+        text-align: center;
+        line-height: 5vh;
+        font-size: 20px;
+        width: 70%;
+        margin-left: 10vw;
+        text-align:justify
+    }
+    
+    .aboutimg2{
+        
+        position: relative;
+        z-index: 40;
+        margin-left: 62vw;
+        margin-top: -14.5vw;
+    
+    }
+    
+    
+    .textwidth{
+        margin-top: 1vw;
+        width: 40vw;
+    }
+    
+    .textwidth2{
+        margin-top: 10vw;
+        width: 40vw;
+        text-align: justify;
+        margin-left: 18vw;
+}
+    
+    .lal{
+        
+        margin-left: 10vw;
+        margin-top: 6vw;
+    }
+    
+    .lal1 {
+        
+        font-size: 25px;
+        margin-bottom: 0.5vw;
+        text-align: justify;
+        letter-spacing: 2px;
+    }
+    
+    .clienttext{
+     text-align: justify;
+    }
+    
+    /* Clientspage*/
+    
+    #item5about{
+    width:100vw; height:100vh;
+    margin: 0px;
+    background:#ffc41a;  
+    float: left;
+    display: inline-block;
+    position: absolute;
+   
+}
+    
+    #item4about{
+     width:15vw; height:10vh;
+    margin-top: 28vw;
+    margin-left: 3vw;
+    background:#ffc41a;  
+    float: left;
+    display: inline-block;
+    position: relative;
+    line-height: 3vh; 
+    font-size: 18px;
+    z-index: 70;
+   
+    }
+    
+  
+
+    
+    .imgme{
+        
+        margin-left: -16vw;
+        margin-top: 3vw;
+        margin-bottom: 22vw;
+        border-radius: 500px;
+        position: relative;
+        z-index: 20;
+    }    
+    
+    #infobox1{
+    width:80vw; height:100vh;
+    margin: 0px;
+    background:#303030;
+    position: relative;
+    z-index: 10;  
+     margin-top: 0vh;
+     margin-left: 20vw; 
+    border-radius: 0px;
+    box-shadow: 0 0 0 0 #666;
+    
+}
+    
+    
+    .homebut2 {
+        
+        position: relative;
+        margin-left: -23vw;
+    
+        z-index: 30; 
+    }
+    
+    .aboutext2 {
+        
+        width: 30vw;
+        height: 20vw;
+    }
+    
+    .infoh1 {
+      
+        text-align: justify;
+        letter-spacing: 2px;
+        margin-left: 10vw;
+        margin-top: 4vw;
+        
+       
+    }    
+    
+    .infop {
+        
+        letter-spacing: 2px;
+        text-align: center;
+        line-height: 5vh;
+        font-size: 20px;
+        width: 70%;
+        margin-left: 10vw;
+        text-align:justify
+    }
+    
+    .aboutimg2{
+        
+        position: relative;
+        z-index: 40;
+        margin-left: 62vw;
+        margin-top: -14.5vw;
+    
+    }
+    
+    
+    .textwidth{
+        margin-top: 1vw;
+        width: 40vw;
+    }
+    
+    .textwidth2{
+        margin-top: 10vw;
+        width: 40vw;
+        text-align: justify;
+        margin-left: 18vw;
+}
+    
+    .lal{
+        
+        margin-left: 10vw;
+        margin-top: 6vw;
+    }
+    
+    .lal4 {
+        
+        font-size: 25px;
+        margin-bottom: 0.5vw;
+        text-align: justify;
+        letter-spacing: 2px;
+    }
+    
+    .clienttext{
+     text-align: justify;
+    }
+    
+    
+
+
+
+   
 }
 
