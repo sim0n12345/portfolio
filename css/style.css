@@ -574,26 +574,26 @@ margin-left: -4.5vw;
   
 
     
-    .imgme{
+    .imgme9{
         
-        margin-left: -16vw;
+        margin-left: -9vw;
         margin-top: 3vw;
-        margin-bottom: 22vw;
-        border-radius: 500px;
+        margin-bottom: 33vw;
+        
         position: relative;
-        z-index: 20;
+        z-index: 3030303;
     }    
     
     #infobox1{
     width:80vw; height:100vh;
-    margin: 0px;
+    margin-top: -3vw;
     background:#303030;
     position: relative;
     z-index: 10;  
-     margin-top: 0vh;
+     margin-top: -2.1vh;
      margin-left: 20vw; 
     border-radius: 0px;
-    box-shadow: 0 0 0 0 #666;
+ 
     
 }
     
@@ -603,6 +603,13 @@ margin-left: -4.5vw;
         position: relative;
         margin-left: -23vw;
     
+        z-index: 30; 
+    }
+    
+     .homebut3 {
+        
+        position: relative;
+        margin-left: -26.5vw;
         z-index: 30; 
     }
     
@@ -667,10 +674,13 @@ margin-left: -4.5vw;
         margin-bottom: 0.5vw;
         text-align: justify;
         letter-spacing: 2px;
+        margin-top: -5vh;
     }
     
     .clienttext{
      text-align: justify;
+    margin-top: 0vh;    
+       
     }
     
     
