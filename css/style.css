@@ -159,8 +159,8 @@ body {
     
     .img1{
     margin-left: 28.5vw;
-    margin-top: 20vw;
-    margin-bottom: 20vw;
+    margin-top: 0vw;
+    margin-bottom: 100vw;
     width: 50%;    
 }
     
@@ -276,7 +276,7 @@ p, b{
 }
 
 .item1butmarg{
-    margin-top: 4vw;
+    margin-top: 5vw;
     margin-bottom: -1vw;
 }
 
@@ -319,7 +319,7 @@ p, b{
 
 .img1{
     margin-left: 11.3vw;
-    margin-top: 4vw;
+    margin-top: 5vw;
     margin-bottom: -2.2vw;
 }
 
@@ -510,7 +510,7 @@ margin-left: -4.5vw;
         position: relative;
         z-index: 40;
         margin-left: 62vw;
-        margin-top: -14.5vw;
+        margin-top: -14vw;
     
     }
     
